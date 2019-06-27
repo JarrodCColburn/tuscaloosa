@@ -10,4 +10,12 @@ By exposing the existing Tuscaloosa Trolley information to Google and Apple maps
 
 Searching for routes on Tuscaloosa trolley requires going to tuscaloosatransit.transloc.com or downloading a Transloc Rider App from [AppStore](https://apps.apple.com/us/app/transloc-rider/id751972942) on iOS or [Google Play](https://play.google.com/store/apps/details?id=com.transloc.android.rider).
 
-![image]('./src/screenshots/google-mont-2-phone.png')
+![image](src/screenshots/transloc-tusc.png)
+
+Disadvantages of the Transloc website/app:
+* Users can 
+
+![image](src/screenshots/google-tusc.png)
+
+# Montgomery (by comparison)
+
