@@ -1,10 +1,8 @@
 # Integrate Tuscaloosa Trolley with Google and Apple Maps
 
 ### Opportunity
-Exposing the Tuscaloosa Trolley information to Google and Apple maps, using available technology Transloc Architect.
-*  for directions in Tuscaloosa, the Trolley rides will be displayed along side driving, walking, and carpooling services (Uber and Lyft).
-* The  
-* Tuscaloosa Trolley will be competitive with other 
+Expose the Tuscaloosa Trolley information to Google and Apple maps to increase ridership and ease of use.
+Tuscaloosa already uses Transloc services, goals can be accomplished by utilizing the free Transloc Architect.
 
 # Tuscaloosa 
 
@@ -32,4 +30,4 @@ When Searching for directions within Montgomery, public transportation is displa
 * From: The Alabama Capitol Building, Montgomery, AL 36104
 * To: The Shoppes at Eastchase, 7274 Eastchase Pkwy, Montgomery, AL 36117
 * Google Map: Displays two choices with options ![](src/screenshots/google-mont.png)
-  > Two seperatee options are available 
+* Google Maps (phone): ![](src/screenshots/google-mont-phone.png)
