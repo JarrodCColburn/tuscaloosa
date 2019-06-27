@@ -26,15 +26,10 @@ When searching Google for a directions within Tuscaloosa no public transportatio
 
 # Montgomery (by comparison)
 
-Montgomery, which also appears to use Transloc services. 
-* Montgomery Transloc![mont](src/screenshots/transloc-mont.png)
-
-However, Montgomery also seems to integrate with external sites such as Google maps.
+Montgomery, also appears to use Transloc services but additionally integrates with external sites such as Google maps.
 
 When Searching for directions within Montgomery, public transportation is displayed.
 * From: The Alabama Capitol Building, Montgomery, AL 36104
 * To: The Shoppes at Eastchase, 7274 Eastchase Pkwy, Montgomery, AL 36117
 * Google Map: Displays two choices with options ![](src/screenshots/google-mont.png)
-
-* 
-![](src/screenshots/google-mont-phone.png)
+  > Two seperatee options are available 
