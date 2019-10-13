@@ -1,3 +1,5 @@
+{% include toc.html html=content %}
+
 # Integrate Tuscaloosa Trolley with Google and Apple Maps
 
 ### Opportunity
